@@ -31,8 +31,8 @@ Report: [22-06-11_ast_influence_compilerflags_fuzzing.pdf](./22-06-11_ast_influe
 
 
 
-Collaboration with Matthew Weingarten as part of semester project 2022 in the
-Automated Software Testing lecture, in Advanced Software Technologies group at
+Collaboration with Matthew Weingarten as part of semester project in
+Automated Software Testing, in Advanced Software Technologies group at
 ETH Zurich.
 
 Spring 2022, https://ast.ethz.ch/
